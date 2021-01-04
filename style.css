@@ -4,8 +4,14 @@ body{ margin: 0px;
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 40px;
+}
 .name{
     color: orange;
+}
+p{
+    color: dimgray;
 }
 .half-width{
     width: 40%;
@@ -31,4 +37,9 @@ section{
     border-radius: 5px;
     color: white;
     font-weight: 700;
+}
+.dream-area{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
 }
